@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"testing"
 
-	"github.com/raffreitas/gointensivo/internal/entity"
+	"github.com/raffreitas/go-kafka/internal/entity"
 	"github.com/stretchr/testify/suite"
 
 	// sqlite driver

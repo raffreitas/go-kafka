@@ -3,7 +3,7 @@ package database
 import (
 	"database/sql"
 
-	"github.com/raffreitas/gointensivo/internal/entity"
+	"github.com/raffreitas/go-kafka/internal/entity"
 )
 
 type OrderRepository struct {
